@@ -1,0 +1,15 @@
+{
+  "name": "CGDev",
+  "description": "This application builds pdf files from html code.",
+  "minimum-stability": "stable",
+  "type": "project",
+  "authors": [
+    {
+      "name": "CGDev",
+      "email": "pablocgdev@gmail.com"
+    }
+  ],
+  "require": {
+    "dompdf/dompdf" : "0.6.*"
+  }
+}
